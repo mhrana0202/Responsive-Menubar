@@ -59,12 +59,25 @@ body{
 /*-------------------------------------------
         Logo part here
 --------------------------------------------*/
+.logo-img{
+    width: 80px;
+    height: 65px;
+    border-radius: 50%;
+}
+
 .logo{
     text-decoration: none;
     font-size: 26px;
     font-weight: 700;
     letter-spacing: 3px;
     color: #fff;
+}
+
+.logo .shop-name{
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: #5353ec;
 }
 /*---------------------- End --------------------------*/
 
